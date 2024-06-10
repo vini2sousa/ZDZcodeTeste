@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vinicius\\nuxt-app\\CRUD-API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E4C1151-B071-47F1-BF7D-8DD5AB0C210D}|CRUD-API\\CRUD-API.csproj|c:\\users\\vinicius\\nuxt-app\\crud-api\\crud-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E4C1151-B071-47F1-BF7D-8DD5AB0C210D}|CRUD-API\\CRUD-API.csproj|solutionrelative:crud-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E4C1151-B071-47F1-BF7D-8DD5AB0C210D}|CRUD-API\\CRUD-API.csproj|c:\\users\\vinicius\\nuxt-app\\crud-api\\crud-api\\controllers\\infoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E4C1151-B071-47F1-BF7D-8DD5AB0C210D}|CRUD-API\\CRUD-API.csproj|solutionrelative:crud-api\\controllers\\infoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E4C1151-B071-47F1-BF7D-8DD5AB0C210D}|CRUD-API\\CRUD-API.csproj|c:\\users\\vinicius\\nuxt-app\\crud-api\\crud-api\\models\\efdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E4C1151-B071-47F1-BF7D-8DD5AB0C210D}|CRUD-API\\CRUD-API.csproj|solutionrelative:crud-api\\models\\efdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E4C1151-B071-47F1-BF7D-8DD5AB0C210D}|CRUD-API\\CRUD-API.csproj|c:\\users\\vinicius\\nuxt-app\\crud-api\\crud-api\\models\\infos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E4C1151-B071-47F1-BF7D-8DD5AB0C210D}|CRUD-API\\CRUD-API.csproj|solutionrelative:crud-api\\models\\infos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Infos.cs",
+              "DocumentMoniker": "C:\\Users\\vinicius\\nuxt-app\\CRUD-API\\CRUD-API\\Models\\Infos.cs",
+              "RelativeDocumentMoniker": "CRUD-API\\Models\\Infos.cs",
+              "ToolTip": "C:\\Users\\vinicius\\nuxt-app\\CRUD-API\\CRUD-API\\Models\\Infos.cs",
+              "RelativeToolTip": "CRUD-API\\Models\\Infos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T17:44:35.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vinicius\\nuxt-app\\CRUD-API\\CRUD-API\\Program.cs",
+              "RelativeDocumentMoniker": "CRUD-API\\Program.cs",
+              "ToolTip": "C:\\Users\\vinicius\\nuxt-app\\CRUD-API\\CRUD-API\\Program.cs",
+              "RelativeToolTip": "CRUD-API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T17:33:37.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EFDBcontext.cs",
+              "DocumentMoniker": "C:\\Users\\vinicius\\nuxt-app\\CRUD-API\\CRUD-API\\Models\\EFDBcontext.cs",
+              "RelativeDocumentMoniker": "CRUD-API\\Models\\EFDBcontext.cs",
+              "ToolTip": "C:\\Users\\vinicius\\nuxt-app\\CRUD-API\\CRUD-API\\Models\\EFDBcontext.cs",
+              "RelativeToolTip": "CRUD-API\\Models\\EFDBcontext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T16:20:02.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InfosController.cs",
+              "DocumentMoniker": "C:\\Users\\vinicius\\nuxt-app\\CRUD-API\\CRUD-API\\Controllers\\InfosController.cs",
+              "RelativeDocumentMoniker": "CRUD-API\\Controllers\\InfosController.cs",
+              "ToolTip": "C:\\Users\\vinicius\\nuxt-app\\CRUD-API\\CRUD-API\\Controllers\\InfosController.cs",
+              "RelativeToolTip": "CRUD-API\\Controllers\\InfosController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAswB8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T19:15:48.293Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
